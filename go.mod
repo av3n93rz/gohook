@@ -1,4 +1,4 @@
-module github.com/robotn/gohook
+module github.com/av3n93rz/gohook
 
 go 1.17
 
